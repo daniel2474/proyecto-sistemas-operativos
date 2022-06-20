@@ -1,0 +1,21 @@
+Pacientes
+Juan Martinez Rogelio
+16
+Masculino
+JuanRogelio
+1111
+Juan Arellano Vasquez
+19
+Masculino
+JuanVasquez
+2222
+Lilia Venedeti Porra
+16
+Femenino
+LiliaPorra
+3333
+Luis Vazques Sanchez
+21
+Masculino
+LuisSanchez
+9999

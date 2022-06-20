@@ -1,0 +1,27 @@
+Instrumento
+4
+Escala de sobrecarga del cuidador
+22
+Piensas que su familiar le pide mas ayuda de la que realmente necesita
+Piensa que debido al tiempo que decida a su familiar no tiene suficiente tiempo para Ud.
+Se siente agobiado por intentar compatabilizar el cuidado de su familia con otras responsabilidades (trabajo familia)
+Siente verguenza por la conducta d esu familia
+Se siente enfocado cuando está cerca de su familiar
+Piense que el cuidar de su familia afecta negativamente la relacion que usted tiene con otros miembros de su familia
+Tiene miedo por el futuro de su familia
+Piensa que su familia depende de Ud
+Se siente tenso cuando está cerca de su familiar
+Piensa que su salud ha empeorado debido a tener que cuidar de su familiar
+Piensa que no tiene tanta intimidad como le gustaria debide a tener que cuidar de su familiar
+Piensa que su vida social se ha visto afectada negativamene por tener que cuidar de su familiar
+Se siente incomodo por distanciarse de sus amistades debido a tener que cuidar de su familiar
+Piensa que su familiar le considera a usted la unica persona que le puede cuidar
+Piensa que no tiene suficientes ingresos economicos para los gastos de cuidad a su familiar, además de sus otros gastos
+Piensa que no será capaz de cuidar a su familiar por mucho más tiempo
+Se siente que ha perdido el control de su vida desde que comenzo la enfermedad de su familiar
+Desearia poder dejar el cuidado de su familiar a otra persona
+Se siente indeciso sobre qué hacer con su familiar
+Piensa que deberia de hacer más por su familiar
+Piensa que podría cuidar nejor a su familiar
+Globalmente, que grado de carga experimenta por el hecho de cuidar a du familiar
+
